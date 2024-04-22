@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Magan
 - 👀 I’m interested in 
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on Open Spurce projects
+- 💞️ I’m looking to collaborate on Open Source projects
 - 📫 How to reach me
 - 😄 Pronouns:
 - ⚡ Fun fact:
