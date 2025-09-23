@@ -1,5 +1,0 @@
-- 👋 Hi, I’m Magan
-- 👀 I’m interested in Back End, Computer network and Design
-- 🌱 I’m currently learning C++, Agile method and Data collection
-- 💞️ I’m looking to collaborate on Open Source projects
-- 📫 How to reach me: Only in github for now
